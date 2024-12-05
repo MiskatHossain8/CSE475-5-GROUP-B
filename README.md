@@ -41,3 +41,13 @@ Prepared by (Group B):
       Department of Computer Science & Engineering
 
       East West University
+
+
+Instructed by:
+      Dr. Mohammad Rifat Ahmmad Rashid
+  
+      Assistant Professor
+  
+      Department of Computer Science & Engineering
+  
+      East West University
